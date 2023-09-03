@@ -1,9 +1,5 @@
 
     // http://universities.hipolabs.com/search?country=United+States
-    // https://api.coindesk.com/v1/bpi/currentprice.json
-    // https://dog.ceo/api/breeds/image/random
-
-
 
 
 
