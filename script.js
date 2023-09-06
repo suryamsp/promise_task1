@@ -17,7 +17,7 @@ function Promise_Request(url) {
     });
   }
   
-  Promise_Request('http://universities.hipolabs.com/search?country=United+States')
+  Promise_Request('https://universities.hipolabs.com/search?country=United+States')
     .then(univercity => {
         var name= univercity.map((dta)=>`${dta.name}`);
         var web= univercity.map((dta)=>`${dta.web_pages}`);
